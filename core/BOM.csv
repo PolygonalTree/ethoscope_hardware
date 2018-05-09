@@ -14,7 +14,7 @@ Light support,Base,1,Polygonal Tree/Custom made,https://github.com/PolygonalTree
 Male 2x6 IDC socket ,Base,1,RS,RS 832-3496
 12V IR LED strip,Base,3LED,Lightworld,
 5cm cable,Base,2,RS,
-Side wall,Side Wall,2,Polygonal Tree/Custom made,https://github.com/PolygonalTree/ethoscope_hardware/tree/master/core/side_wall
+Side wall,Side Wall,2,RS, RS 043-4295 cut using https://github.com/PolygonalTree/ethoscope_hardware/tree/master/core/side_wall
 Ribbon cable (6 way; 21cm),GPIO connector,1,RS,RS 693-7699
 Female 2x6 IDC socket ,GPIO connector,1,RS,RS 823-6604
 Female 2x40 IDC socket,GPIO connector,1,RS,RS 625-7303
